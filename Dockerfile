@@ -1,4 +1,5 @@
-# Fixed a problem
+#1. Fixed a problem
+#2. Fixed Docker
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
